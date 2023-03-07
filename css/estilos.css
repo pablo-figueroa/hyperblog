@@ -1,6 +1,21 @@
-body {
+#container {
+    background: rgb(233,233,237);
+    background: linear-gradient(328deg, rgba(233,233,237,1) 0%, rgba(236,241,241,1) 73%, rgba(0,113,179,1) 100%);
+    border-radius: 1%;
+    padding: 10px 25px;
+}
+
+h1 {
     font-family: Arial, sans-serif;
     text-align: center;
     color: deeppink
   }
   
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+  }
+
+  li {
+    line-height: 1.5;
+  }
