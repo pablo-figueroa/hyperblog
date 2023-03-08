@@ -5,6 +5,21 @@
     padding: 10px 25px;
 }
 
+#cabecera {
+  box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
+  background: rgba(50, 50, 170, .3);
+  font-weight: bold;
+  font-size: 20px;
+  color:aliceblue;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#cabecera #tagline {
+  font-weight: normal;
+  font-size: 15px;
+}
+
 h1 {
     font-family: Arial, sans-serif;
     text-align: center;
