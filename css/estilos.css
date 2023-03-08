@@ -7,7 +7,7 @@
 
 #cabecera {
   box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
-  background: rgba(50, 50, 170, .3);
+  background: rgba(170, 50, 50, .8);
   font-weight: bold;
   font-size: 20px;
   color:aliceblue;
@@ -25,13 +25,14 @@ h1 {
     text-align: center;
     color: deeppink;
     font-size: 40px;
-  }
+}
   
-  p {
+p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.5;
-  }
+    color: red;
+}
 
-  li {
+li {
     line-height: 1.5;
-  }
+}
